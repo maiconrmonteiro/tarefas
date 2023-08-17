@@ -20,7 +20,7 @@ export default function Home({comments, posts}: HomeProps) {
   return (
     <div>
       <Head>
-        <title>Tarefas+ | Organize suas tarefas de forma fácil</title>
+        <title>Floranda+ | Organize suas tarefas de forma fácil</title>
       </Head>
       <main className={styles.conteiner}>
         <div className={styles.logoContent}>
@@ -33,7 +33,7 @@ export default function Home({comments, posts}: HomeProps) {
         </div>
         <h1 className={styles.title}>
           Sistema feito para você organizar <br />
-          seus estudos e tarefas
+          Suas tarefas
         </h1>
 
         <div className={styles.infoContent}>
