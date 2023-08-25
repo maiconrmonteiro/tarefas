@@ -20,7 +20,7 @@ export default function Home({comments, posts}: HomeProps) {
   return (
     <div>
       <Head>
-        <title>Floranda+ | Organize suas tarefas de forma fácil</title>
+        <title>Maizum+ | Organização de tarefas de forma fácil</title>
       </Head>
       <main className={styles.conteiner}>
         <div className={styles.logoContent}>
@@ -38,7 +38,7 @@ export default function Home({comments, posts}: HomeProps) {
 
         <div className={styles.infoContent}>
           <section className={styles.box}>
-            <span>+ {posts} posts</span>
+            <span>+ {posts} Tarefas</span>
           </section>
           <section className={styles.box}>
             <span>+ {comments} comentários</span>

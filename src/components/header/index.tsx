@@ -11,7 +11,8 @@ export function Header() {
             <section className={styles.content}>
                 <nav className={styles.nav}>
                     <Link href="/">
-                        <h1 className={styles.logo}>Floranda
+                        <h1 className={styles.logo}>
+                            MAIZUM
                             <span>+</span>
                         </h1>
                     </Link>
